@@ -1,18 +1,42 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "title": "update2",
+      "author": "update2",
+      "id": 17
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "title": "",
+      "author": "",
+      "id": 20
+    },
+    {
+      "title": "",
+      "author": "",
+      "id": 21
+    },
+    {
+      "title": "",
+      "author": "",
+      "id": 22
+    },
+    {
+      "title": "",
+      "author": "",
+      "id": 23
+    },
+    {
+      "title": "",
+      "author": "",
+      "id": 24
+    },
+    {
+      "title": "sfsd",
+      "author": "asdf",
+      "id": 25
     }
   ],
+  "comments": [],
   "profile": {
     "name": "typicode"
   }
